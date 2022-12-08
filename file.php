@@ -1,4 +1,5 @@
 <?php
-echo 'File dcode1 one';
-echo "File dcode1 two";
+echo 'dcode file one';
+echo "File two";
+echo 'dcode file three';
 ?>
