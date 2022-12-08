@@ -1,6 +1,5 @@
 <?php
 echo "Great One ";
-echo "Great Two
-a";
+echo "Great Twoa";
 
 ?>
