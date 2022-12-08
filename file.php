@@ -1,5 +1,4 @@
 <?php
-echo "Content One ";
-echo "Content 2 ";
+echo 'File 1';
 
 ?>
