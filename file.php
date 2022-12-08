@@ -1,5 +1,5 @@
 <?php
-echo 'File 1';
-echo "File 2";
-echo "File 3";
+echo 'File one';
+echo "File two";
+echo "File four";
 ?>
