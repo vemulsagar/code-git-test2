@@ -1,5 +1,5 @@
 <?php
-echo 'index 1';
-echo 'index three';
+echo 'dcode1index';
+
 
 ?>
