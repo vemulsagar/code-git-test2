@@ -1,6 +1,5 @@
 <?php
 echo "Content One ";
-echo "Content Two
-";
+echo "Content 2 ";
 
 ?>
