@@ -1,4 +1,4 @@
 <?php
-$db='test';
+$db='test 1';
 
 ?>
